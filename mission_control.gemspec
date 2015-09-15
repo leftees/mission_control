@@ -9,8 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Ryan Cammer']
   spec.email         = ['ryancammer@gmail.com']
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.summary       = %q{Mission Controll enables you to control your Martian rovers via text file input.}
   spec.homepage      = 'https://github.com/ryancammer/mission_control'
   spec.license       = 'MIT'
 
